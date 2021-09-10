@@ -3,3 +3,13 @@
   margin: 0;
   padding: 0;
 }
+:root {
+  --main-bg-color: #30475e;
+  --main-ft-color: #dddddd;
+  --main-desc-color: #f05454;
+  --main-hd-color: #222831;
+}
+
+body {
+  background-color: #30475e;
+}
